@@ -1,6 +1,6 @@
-# Rozwiązywanie układów równań liniowych 
-* metoda eliminacji Gaussa,
-* rozkład LU,
-* metoda Crouta-Dolittle’a,
-* metoda Choleskiego﻿,
-* odwracanie macierzy metodą Gaussa-Jordana.
+# Rozwiązywanie układów równań nieliniowych 
+* Newtona-Raphsona 1-go rzędu,
+* Newtona-Raphsona 2-go rzędu (metoda Mullera),
+* regula falsi,
+* metoda bisekcji,
+* metoda siecznych.
